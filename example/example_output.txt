@@ -1,0 +1,247 @@
+{
+  id: 'PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn',
+  url: 'https://www.youtube.com/playlist?list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn',
+  title: 'NCS : The Best Of Indie Dance 🟠',
+  estimatedItemCount: 71,
+  views: 4485213,
+  thumbnails: [
+    {
+      url: 'https://i.ytimg.com/vi/UhaU1ZVu9v0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAo0t-QTcdFYN8M3ghxsLTNQbVj-g',
+      width: 336,
+      height: 188
+    },
+    {
+      url: 'https://i.ytimg.com/vi/UhaU1ZVu9v0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB9I0cRjaZEfeiCnzjJpNvGWrZ-Zg',
+      width: 246,
+      height: 138
+    },
+    {
+      url: 'https://i.ytimg.com/vi/UhaU1ZVu9v0/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBEC2MEZP_dIDpyNhN2qO-yQwn1Rg',
+      width: 196,
+      height: 110
+    },
+    {
+      url: 'https://i.ytimg.com/vi/UhaU1ZVu9v0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD4pnHdVKACy1u6hrFlM7yE9Tscrw',
+      width: 168,
+      height: 94
+    }
+  ],
+  bestThumbnail: {
+    url: 'https://i.ytimg.com/vi/UhaU1ZVu9v0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAo0t-QTcdFYN8M3ghxsLTNQbVj-g',
+    width: 336,
+    height: 188
+  },
+  lastUpdated: 'Last updated on May 12, 2026',
+  description: 'All Indie Dance uploads from NCS/ NoCopyrightSounds. These tracks are copyright free/ stream safe.',
+  visibility: 'everyone',
+  author: {
+    name: 'NoCopyrightSounds',
+    url: 'https://www.youtube.com/@NoCopyrightSounds',
+    avatars: [
+      {
+        url: 'https://yt3.ggpht.com/opGwWu2ScRBy-OA81LIzKwSatxlVKjjNyAdt4fWh4LoLzldx05Sdf3OGQz0Fz78ziZ9RLP4=s176-c-k-c0x00ffffff-no-rj',
+        width: 176,
+        height: 176
+      },
+      {
+        url: 'https://yt3.ggpht.com/opGwWu2ScRBy-OA81LIzKwSatxlVKjjNyAdt4fWh4LoLzldx05Sdf3OGQz0Fz78ziZ9RLP4=s88-c-k-c0x00ffffff-no-rj',
+        width: 88,
+        height: 88
+      },
+      {
+        url: 'https://yt3.ggpht.com/opGwWu2ScRBy-OA81LIzKwSatxlVKjjNyAdt4fWh4LoLzldx05Sdf3OGQz0Fz78ziZ9RLP4=s48-c-k-c0x00ffffff-no-rj',
+        width: 48,
+        height: 48
+      }
+    ],
+    bestAvatar: {
+      url: 'https://yt3.ggpht.com/opGwWu2ScRBy-OA81LIzKwSatxlVKjjNyAdt4fWh4LoLzldx05Sdf3OGQz0Fz78ziZ9RLP4=s176-c-k-c0x00ffffff-no-rj',
+      width: 176,
+      height: 176
+    },
+    channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+  },
+  items: [
+    {
+      id: 'UhaU1ZVu9v0',
+      index: 1,
+      title: 'ruindkid - Bad Pitch For You | Indie Dance | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=UhaU1ZVu9v0',
+      url: 'https://www.youtube.com/watch?v=UhaU1ZVu9v0&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=1',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'v6PjcMGKPDM',
+      index: 2,
+      title: 'youth® - snake eyes | Dance Pop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=v6PjcMGKPDM',
+      url: 'https://www.youtube.com/watch?v=v6PjcMGKPDM&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=2',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'MQ_S8XroXAo',
+      index: 3,
+      title: 'kitz - cut you off | Hyperpop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=MQ_S8XroXAo',
+      url: 'https://www.youtube.com/watch?v=MQ_S8XroXAo&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=3',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: '8k-KhejOoSc',
+      index: 4,
+      title: 'm3gatron - Love Letter | Indie Dance | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=8k-KhejOoSc',
+      url: 'https://www.youtube.com/watch?v=8k-KhejOoSc&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=4',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'jjTuEQx4bJQ',
+      index: 5,
+      title: 'Tyla Yaweh, Mason Musso, Rarin - Beautiful Disaster | Alternative Pop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=jjTuEQx4bJQ',
+      url: 'https://www.youtube.com/watch?v=jjTuEQx4bJQ&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=5',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'KkdJ9iKFJ0U',
+      index: 6,
+      title: 'Netrum & Halvorsen - Backstreet Boy | Synthwave | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=KkdJ9iKFJ0U',
+      url: 'https://www.youtube.com/watch?v=KkdJ9iKFJ0U&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=6',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'XZC8Sb9y4UU',
+      index: 7,
+      title: 'Unlike Pluto - Hollow | Indie Dance | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=XZC8Sb9y4UU',
+      url: 'https://www.youtube.com/watch?v=XZC8Sb9y4UU&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=7',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'Do9oV1ZS7YU',
+      index: 8,
+      title: 'Netrum - Always Be | Synthwave | NCS13 - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=Do9oV1ZS7YU',
+      url: 'https://www.youtube.com/watch?v=Do9oV1ZS7YU&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=8',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: '9CUwB5U4RNM',
+      index: 9,
+      title: 'The Trinity - jealous | Hyperpop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=9CUwB5U4RNM',
+      url: 'https://www.youtube.com/watch?v=9CUwB5U4RNM&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=9',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'ourQydxsjkg',
+      index: 10,
+      title: 'Aeden & Sketchez - Purpose | Electronic Pop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=ourQydxsjkg',
+      url: 'https://www.youtube.com/watch?v=ourQydxsjkg&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=10',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: '9S2RQEcArb0',
+      index: 11,
+      title: 'Palm Skies & DEAN - Will You Come (ft. Reuben Cameron) | Electronic Pop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=9S2RQEcArb0',
+      url: 'https://www.youtube.com/watch?v=9S2RQEcArb0&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=11',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'UUI8d20o9LE',
+      index: 12,
+      title: 'BEKSY. - Stars in the Sky | Electronic Pop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=UUI8d20o9LE',
+      url: 'https://www.youtube.com/watch?v=UUI8d20o9LE&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=12',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'jGf-9LAzfY4',
+      index: 13,
+      title: 'JINXSPR0 - Stick Around You | Indie Dance | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=jGf-9LAzfY4',
+      url: 'https://www.youtube.com/watch?v=jGf-9LAzfY4&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=13',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: 'fUcaF6jNo9w',
+      index: 14,
+      title: 'Clarx & Shiah Maisel - Pull Me In (feat. M.I.M.E) | Alternative Dance | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=fUcaF6jNo9w',
+      url: 'https://www.youtube.com/watch?v=fUcaF6jNo9w&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=14',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    },
+    {
+      id: '7CpPGR6HOL0',
+      index: 15,
+      title: 'yanvince - midnight feelings | Dance Pop | NCS - Copyright Free Music',
+      shortUrl: 'https://www.youtube.com/watch?v=7CpPGR6HOL0',
+      url: 'https://www.youtube.com/watch?v=7CpPGR6HOL0&list=PLRBp0Fe2GpglkzuspoGv-mu7B2ce9_0Fn&index=15',
+      author: {
+        url: 'https://www.youtube.com/@NoCopyrightSounds',
+        name: 'NoCopyrightSounds',
+        channelID: 'UC_aEa8K-EOJ3D6gOs7HcyNg'
+      }
+    }
+  ],
+  continuation: null
+}
