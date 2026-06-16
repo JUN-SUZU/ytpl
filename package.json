@@ -1,0 +1,33 @@
+{
+  "name": "@jun-suzu/ytpl",
+  "version": "1.0.0",
+  "description": "A lightweight fork of ytpl for fetching YouTube playlist data",
+  "main": "./lib/main.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "lib/"
+  ],
+  "keywords": [
+    "youtube",
+    "playlist",
+    "scraper"
+  ],
+  "homepage": "https://github.com/JUN-SUZU/ytpl#readme",
+  "bugs": {
+    "url": "https://github.com/JUN-SUZU/ytpl/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUN-SUZU/ytpl.git"
+  },
+  "license": "MIT",
+  "author": "JUN-SUZU",
+  "dependencies": {
+    "undici": "^8.5.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
