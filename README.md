@@ -1,4 +1,4 @@
-# @JUN-SUZU/ytpl
+# @jun-suzu/ytpl
 
 A light-weight ytpl parser for Node.js.
 Simple and easy to use.
